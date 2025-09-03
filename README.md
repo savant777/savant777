@@ -11,6 +11,7 @@
 ---
 
 <br>
+
 # 🎓 Education
 - **Bachelor of Engineering in Computer Engineering, Rangsit University (2025)**
 - **Full Scholarship: Dr. Arthit Urairat (100%)**
