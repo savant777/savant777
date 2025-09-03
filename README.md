@@ -6,9 +6,11 @@
   <a href="https://codepen.io/KellyB777"><img src="https://img.shields.io/badge/Codepen-KellyB777-black?style=for-the-badge&logo=codepen" alt="CodePen"></a>
   <a href="mailto:metawee.77@gmail.com"><img src="https://img.shields.io/badge/Email-metawee.77@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
+<br>
 
 ---
 
+<br>
 # 🎓 Education
 - **Bachelor of Engineering in Computer Engineering, Rangsit University (2025)**
 - **Full Scholarship: Dr. Arthit Urairat (100%)**
@@ -46,9 +48,11 @@
 - **Email:** metawee.77@gmail.com
 - **GitHub:** [savant777](https://github.com/savant777)
 - **CodePen:** [KellyB777](https://codepen.io/KellyB777)
+<br>
 
 ---
 
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=savant777&color=brightgreen" alt="Profile Views"/>
 </p>
